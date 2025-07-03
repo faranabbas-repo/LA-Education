@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "LA-Education",
     "section": "",
-    "text": "Warning: sf layer has inconsistent datum (+proj=longlat +datum=NAD83 +no_defs).\nNeed '+proj=longlat +datum=WGS84'"
+    "text": "Warning: sf layer has inconsistent datum (+proj=longlat +datum=NAD83 +no_defs).\nNeed '+proj=longlat +datum=WGS84'\n\n\n\n\n\n\nThis interactive map visualizes the percentage of residents aged 25 and older with a bachelor’s degree across census tracts in Los Angeles County, using data from the 2022 American Community Survey. The map clearly highlights spatial disparities in educational attainment. Darker red areas—particularly in central and coastal regions like Santa Monica and Pasadena—indicate a higher concentration of bachelor’s degree holders, while lighter yellow and white areas in northern and southeastern parts of the county show significantly lower levels of higher education. This pattern reflects broader socioeconomic divides and can inform policy targeting education, workforce development, and regional investment."
   },
   {
     "objectID": "about.html",
