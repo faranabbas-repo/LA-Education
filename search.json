@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LA-Education",
+    "section": "",
+    "text": "Warning: sf layer has inconsistent datum (+proj=longlat +datum=NAD83 +no_defs).\nNeed '+proj=longlat +datum=WGS84'"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
