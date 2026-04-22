@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-About this site
+I am Faran Abbas, a graduate student in World Economy at Shandong University. You can view my work on [GitHub](https://github.com/faranabbas-repo) or contact me at [faranabbas@hotmail.com](mailto:faranabbas@hotmail.com).
+
+This project maps bachelor's degree attainment across Los Angeles County census tracts using American Community Survey data. It is designed as an education and regional-inequality portfolio project that connects spatial data analysis to human-capital and public-policy questions.

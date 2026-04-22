@@ -2,12 +2,15 @@ project:
   type: website
 
 website:
-  title: "LA-Education"
+  title: "LA Education"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: sources.qmd
+        text: Sources
+      - href: about.qmd
+        text: About
 
 format:
   html:

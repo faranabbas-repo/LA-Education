@@ -1,0 +1,26 @@
+---
+title: "Sources"
+format: html
+---
+
+The data for this project comes from the U.S. Census Bureau's American Community Survey (ACS) 5-year estimates, accessed through the `tidycensus` R package.
+
+Variables used:
+
+- `B15003_022`: Number of individuals whose highest educational attainment is a bachelor's degree
+- `B15003_001`: Total population in the educational attainment table universe
+
+Geography:
+
+- census tracts
+- Los Angeles County, California
+- ACS 2022 5-year estimates
+
+Processing steps:
+
+- retrieve tract-level ACS data with geometry
+- reshape the long ACS output into a wide tract-level table
+- compute bachelor's degree attainment as a percentage of the total table population
+- map the results as a static choropleth and an interactive leaflet layer
+
+This is a tract-level exploratory project intended to visualize educational inequality across neighborhoods.
