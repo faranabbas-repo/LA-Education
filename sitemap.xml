@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://faranabbas-repo.github.io/LA-Education/index.html</loc>
-    <lastmod>2025-07-03T00:54:32.791Z</lastmod>
+    <loc>https://faranabbas-repo.github.io/LA-Education/sources.html</loc>
+    <lastmod>2026-04-22T16:23:50.286Z</lastmod>
   </url>
   <url>
     <loc>https://faranabbas-repo.github.io/LA-Education/about.html</loc>
-    <lastmod>2025-07-03T00:48:48.192Z</lastmod>
+    <lastmod>2026-04-22T16:23:50.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://faranabbas-repo.github.io/LA-Education/index.html</loc>
+    <lastmod>2026-04-22T16:24:05.567Z</lastmod>
   </url>
 </urlset>
